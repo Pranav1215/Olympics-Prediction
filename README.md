@@ -17,7 +17,7 @@
 
 You can find the code for this project in the following files:
 
-- [Olympic Medal Count Prediction.ipynb](https://github.com/Haresh-github/olympic-games-data-prediction-using-RandomForestClassifier/blob/main/olympic_prediction.ipynb): The main project code.
+- [Olympic Medal Count Prediction.ipynb](https://github.com/Pranav1215/Olympics-Prediction/blob/main/1994.ipynb): The main project code.
 
 ## Technologies/ Tools
 
