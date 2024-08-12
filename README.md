@@ -34,4 +34,4 @@ You can find the code for this project in the following files:
 Data used are from the Olympics, which was originally on [Kaggle](https://www.kaggle.com/datasets/youssefismail20/olympic-games-1994-2024).
 
 You can download the data set used in this project here:
-* [Datasets](https://github.com/Haresh-github/olympic-games-data-prediction-using-RandomForestClassifier/tree/main/dataset/archive)
+* [Datasets](https://github.com/Pranav1215/Olympics-Prediction/tree/main/archive)
